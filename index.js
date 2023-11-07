@@ -2,5 +2,5 @@
 function bookNow(){
     let button = prompt("do you want to book now?");
 }
-let buttonElement=document.querySelector("#button");
-buttonElement.addEventListener("click",bookNow);
+let button=document.querySelector("#button");
+button.addEventListener("click",bookNow);
