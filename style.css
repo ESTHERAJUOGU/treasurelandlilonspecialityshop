@@ -13,6 +13,6 @@ transition:all 20ms ease-in-out;}
 button:hover{ background-color: brown;
 }
 .picture{max-width: 30px;
-margin: 5px 10px ;
+margin: 5px 50px ;
 align-self: start;}
 #link{ text-align: end;}
