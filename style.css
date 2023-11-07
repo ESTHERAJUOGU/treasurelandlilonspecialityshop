@@ -12,5 +12,7 @@ border-radius: 30px;
 transition:all 20ms ease-in-out;}
 button:hover{ background-color: brown;
 }
-.picture{max-width: 30px;}
+.picture{max-width: 30px;
+margin: 5px 10px ;
+align-self: start;}
 #link{ text-align: end;}
