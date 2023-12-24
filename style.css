@@ -25,9 +25,9 @@ justify-content: start;}
 .change{ border: 1px solid black;
 border-radius: 30px;
 margin: 0 auto;
-max-width: 100px;
 display: block;
 transition:all 200ms ease-in-out;}
-nav:hover{ background-color:darkslateblue
-    cursor : pointer;
+.change:hover { background-color:darkslateblue;
+   max-width: 100px;
+   cursor: pointer;
 }
