@@ -1,5 +1,5 @@
 
-function bookNow(){
+function bookNow(response){
     let button = prompt("do you want to book now?");
     if( button === "yes"){
     alert("welcome");}
@@ -9,8 +9,8 @@ function bookNow(){
 }
 let button=document.querySelector("#button");
 button.addEventListener("click",bookNow);
-function navigator(navigar){
+function getnavigation(navigator){
     let navigator=["home","services","contact us","about us"];
 }
 let navigator=document.querySelectorAll(".change");
-navigator .addEventListener("click",navigator);
+navigator .addEventListener("click",getnavigationnavigator);
