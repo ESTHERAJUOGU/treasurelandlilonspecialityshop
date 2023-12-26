@@ -28,9 +28,7 @@ button:hover{ background-color: beige;
 }
 .end{ background-image: green;
 text-decoration-color: white;}
-.picture{max-width: 30px;
-margin: 5px 50px ;
-justify-content: start;}
+
 #link{ text-align: end;
     color: white;
 }
