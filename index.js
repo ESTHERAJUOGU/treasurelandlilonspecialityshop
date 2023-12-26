@@ -9,8 +9,8 @@ function bookNow(){
 }
 let button=document.querySelector("#button");
 button.addEventListener("click",bookNow);
-function navigator(nav){
+function navigator(navigar){
     let navigator=["home","services","contact us","about us"];
 }
-let nav=document.querySelectorAll(".change");
-nav.addEventListener("click",navigator);
+let navigator=document.querySelectorAll(".change");
+navigator .addEventListener("click",navigator);
