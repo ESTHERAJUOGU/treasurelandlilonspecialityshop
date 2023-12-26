@@ -8,6 +8,7 @@ img{ display: block;
     justify-self: center;
 
 }
+main { justify-content: center;}
 button{ border: 1px solid black;
 border-radius: 30px;
 margin: 0 auto;
