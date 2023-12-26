@@ -8,7 +8,7 @@ body{ font-family: Arial, Helvetica, sans-serif;
     justify-self: center;
 transition:all 200ms ease-in-out;
 }
-image:hover{ color: transparent;
+.image:hover{ color: transparent;
      cursor: pointer;
 }
 .picture{ display: block;
@@ -16,7 +16,7 @@ image:hover{ color: transparent;
     justify-self: center;
 transition:all 200ms ease-in-out;
 }
-picture:hover{  color: transparent;
+.picture:hover{  color: transparent;
     cursor: pointer;
 }
 main { justify-content: center;}
@@ -38,7 +38,7 @@ text-decoration-color: white;}
 margin: 0 auto;
 display: block;
 transition:all 200ms ease-in-out;}
- change:hover { background-color:darkgrey;
+ .change:hover { background-color:darkgrey;
    max-width: 100px;
    max-height: 50px;
    cursor: pointer;
