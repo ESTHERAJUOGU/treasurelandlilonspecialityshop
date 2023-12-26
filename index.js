@@ -11,7 +11,7 @@ let button=document.querySelector("#button");
 button.addEventListener("click",bookNow);
 
 function NavigationPreloadManager(){
-    let nav =[ "Home", "Services" ,"About US", "contact us"];
+    let NavigationPreloadManager =[ "Home", "Services" ,"About US", "contact us"];
  }
- let nav = document.querySelectorAll(".change");
- nav.addEventListener("click", NavigationPreloadManager);
+ let NavigationPreloadManager = document.querySelectorAll(".change");
+ NavigationPreloadManager.addEventListener("click", NavigationPreloadManager);
