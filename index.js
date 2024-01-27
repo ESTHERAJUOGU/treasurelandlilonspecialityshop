@@ -12,6 +12,7 @@ button.addEventListener("click",bookNow);
 
 function NavigationPreloadManager(){
     let NavigationPreloadManager =[ "Home", "Services" ,"About US", "contact us"];
- }
+ return NavigationPreloadManager;
+}
  let NavigationPreloadManager = document.querySelectorAll(".change");
  NavigationPreloadManager.addEventListener("click", NavigationPreloadManager);
